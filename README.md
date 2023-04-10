@@ -1,4 +1,4 @@
-## Sobre o Código
+## Sobre o Código:
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Esse código foi escrito em VBA (Visual Basic for Applications), uma linguagem de programação muito utilizada para automatizar tarefas em aplicativos do Microsoft Office (Excel, Word, PowerPoint...).
@@ -6,11 +6,11 @@ Esse código foi escrito em VBA (Visual Basic for Applications), uma linguagem d
 O código consiste em duas sub-rotinas, uma para converter todas as letras em maiúsculas e outra para transformá-las em minúsculas. É importante notar que, dependendo do aplicativo do Office em que o código será utilizado, pode haver variações nas funcionalidades. Portanto, este repositório terá mais de um arquivo, e é necessário observar o início do nome do arquivo para evitar erros.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Devido às variações mencionadas, não será possível postar todas as versões hoje. As datas previstas são as seguintes:
 
-  - Excel (10/04/2023)
+- Excel (10/04/2023)
 
-  - Word (11/04/2023)
+- Word (11/04/2023)
 
-  - PowerPoint (12/04/2023)
+- PowerPoint (12/04/2023)
     
 </p>
 
