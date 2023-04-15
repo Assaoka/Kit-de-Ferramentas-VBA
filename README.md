@@ -9,7 +9,7 @@ O código consiste em duas sub-rotinas, uma para converter todas as letras em ma
 ## Previsão de Lançamento:
 
 - [x] Excel (Postado)
-- [ ] Word (15/04/2023)
+- [ ] Word (Segunda-Feira: 17/04/2023)
 - [ ] PowerPoint (indefinido)
 
 ##  Sobre o Autor:
