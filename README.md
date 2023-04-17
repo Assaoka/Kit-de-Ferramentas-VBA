@@ -8,8 +8,8 @@ O código consiste em duas sub-rotinas, uma para converter todas as letras em ma
 
 ## Previsão de Lançamento:
 
-- [x] Excel (Postado)
-- [ ] Word (Segunda-Feira: 17/04/2023)
+- [x] Excel ([Postado](https://github.com/Assaoka/Conversor-MAIUSCULA-minuscula/blob/main/Excel-ConversorMaiusculaMinuscula.bas))
+- [x] Word ([Postado](https://github.com/Assaoka/Conversor-MAIUSCULA-minuscula/blob/main/Word-ConversorMaiusculaMinuscula.bas))
 - [ ] PowerPoint (indefinido)
 
 ##  Sobre o Autor:
