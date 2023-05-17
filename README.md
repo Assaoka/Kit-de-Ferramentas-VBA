@@ -8,8 +8,8 @@ Esses códigos foram escritos em VBA (Visual Basic for Applications), uma lingua
 <br>🔹 [Importando um arquivo VBA](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#importando-um-arquivo-vba)
 <br>🔹 [Colando um arquivo VBA](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#colando-um-arquivo-vba)
 <br>🔹 [Executar Macro](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#executar-macro)
-<br>🔹 [Conversores Maiúscula/Minúscula](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#conversores-mai%C3%BAscula----min%C3%BAscula)
-<br>🔹 [Sorteio Grupos](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#sorteio-grupos)
+<br>🔸 [Conversores Maiúscula/Minúscula](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#conversores-mai%C3%BAscula----min%C3%BAscula)
+<br>🔸 [Sorteio Grupos](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#sorteio-grupos)
 
 
 
@@ -74,7 +74,7 @@ O código consiste em duas sub-rotinas, uma para converter todas as letras em ma
 1. Abra o Microsoft Excel e abra o arquivo no qual deseja realizar o sorteio dos grupos.
 2. Na planilha desejada, coloque os nomes dos futuros integrantes dos grupos na coluna A, a partir da célula A1, garantindo que não haja células vazias entre os nomes.
 3. Na mesma planilha, coloque os temas ou nomes dos grupos na coluna B, a partir da célula B1, assegurando que não haja células vazias entre eles.
-4. [Execute a Macro.](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#executar)
+4. Execute a Macro.
 
 🔹 [Arquivo](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/edit/main/README.md#executar-macro)
 
