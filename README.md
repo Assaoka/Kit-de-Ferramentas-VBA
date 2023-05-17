@@ -4,13 +4,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Esses códigos foram escritos em VBA (Visual Basic for Applications), uma linguagem de programação muito utilizada para automatizar tarefas em aplicativos do Microsoft Office (Excel, Word, PowerPoint...).</p>
 
-🔹 [Habilitando a guia de desenvolvedor](link)
-<br>🔹 [Importando um arquivo VBA](link)
-<br>🔹 [Colando um arquivo VBA](link)
+🔹 [Habilitando a guia de desenvolvedor](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#habilitando-a-guia-de-desenvolvedor)
+<br>🔹 [Importando um arquivo VBA](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#importando-um-arquivo-vba)
+<br>🔹 [Colando um arquivo VBA](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/edit/main/README.md#colando-um-arquivo-vba)
+<br>🔹 [Executar Macro](link)
 
 
 
-## Habilitando a guia de desenvolvedor
+## Habilitando a guia de desenvolvedor:
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Antes de começarmos a baixar o arquivo VBA, é importante habilitar a guia de desenvolvedor no Office. Essa guia contém ferramentas para trabalhar com macros e VBA. Para habilitar a guia de desenvolvedor, siga as seguintes etapas:
@@ -25,7 +26,7 @@ Antes de começarmos a baixar o arquivo VBA, é importante habilitar a guia de d
 
 
 
-## Importando um arquivo VBA
+## Importando um arquivo VBA:
 <p align="justify">
 Agora que a guia de desenvolvedor está habilitada, podemos importar um arquivo VBA para o Office.
 
@@ -40,17 +41,21 @@ Agora que a guia de desenvolvedor está habilitada, podemos importar um arquivo 
 
 
 
-## Colando um arquivo VBA
-<p align="justify">
+## Colando um arquivo VBA:
 Outra opção para adicionar um arquivo VBA ao Office é copiá-lo e colá-lo diretamente no Visual Basic.
-
 1.  Selecione todo o código do arquivo VBA e copie-o para a área de transferência.    
 2.  Abra o aplicativo do Office em que deseja colar o arquivo VBA.
 3.  Clique na guia "Desenvolvedor" na barra de menu.
 4.  Clique em "Visual Basic" na seção "Código".
 5.  Na janela do Visual Basic, clique com o botão direito do mouse no painel de projetos e selecione "Inserir módulo" no menu suspenso.
 6.  Na janela do novo módulo, cole o código do arquivo VBA que você copiou anteriormente.
-</p>
+
+
+
+## Executar:
+1. Na guia "Developer" (Desenvolvedor), clique no botão "Macros" ou pressione "Alt + F8".
+2. Na janela "Macros", selecione a macro e clique em "Run" (Executar).
+3. Aguarde enquanto a macro realizar seus processos.
 
 
 
@@ -65,9 +70,12 @@ O código consiste em duas sub-rotinas, uma para converter todas as letras em ma
 
 
 ## Sorteio Grupos:
-Em breve...
+1. Abra o Microsoft Excel e abra o arquivo no qual deseja realizar o sorteio dos grupos.
+2. Na planilha desejada, coloque os nomes dos futuros integrantes dos grupos na coluna A, a partir da célula A1, garantindo que não haja células vazias entre os nomes.
+3. Na mesma planilha, coloque os temas ou nomes dos grupos na coluna B, a partir da célula B1, assegurando que não haja células vazias entre eles.
+4. [Execute a Macro.](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#executar)
 
-
+🔹 [Arquivo](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/Excel_SorteioGrupos.bas)
 
 ##  Sobre o Autor:
 <img src="https://avatars.githubusercontent.com/u/130188340?s=200&u=83c9d36fc760730d693236248c76d9464e4b92fc&v=4" alt="Minha Foto" align="left" width="150em" height="150em" style="margin-right: 10px">
