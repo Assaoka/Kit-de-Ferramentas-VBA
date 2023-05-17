@@ -6,8 +6,10 @@ Esses códigos foram escritos em VBA (Visual Basic for Applications), uma lingua
 
 🔹 [Habilitando a guia de desenvolvedor](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#habilitando-a-guia-de-desenvolvedor)
 <br>🔹 [Importando um arquivo VBA](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#importando-um-arquivo-vba)
-<br>🔹 [Colando um arquivo VBA](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/edit/main/README.md#colando-um-arquivo-vba)
-<br>🔹 [Executar Macro](link)
+<br>🔹 [Colando um arquivo VBA](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#colando-um-arquivo-vba)
+<br>🔹 [Executar Macro](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#executar-macro)
+<br>🔹 [Conversores Maiúscula/Minúscula](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#conversores-mai%C3%BAscula----min%C3%BAscula)
+<br>🔹 [Sorteio Grupos](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#sorteio-grupos)
 
 
 
@@ -22,7 +24,6 @@ Antes de começarmos a baixar o arquivo VBA, é importante habilitar a guia de d
 4.  Na lista de guias disponíveis, marque a caixa de seleção "Desenvolvedor".
 5.  Clique em "OK" para salvar as alterações.
 </p>
-
 
 
 
@@ -52,7 +53,7 @@ Outra opção para adicionar um arquivo VBA ao Office é copiá-lo e colá-lo di
 
 
 
-## Executar:
+## Executar Macro:
 1. Na guia "Developer" (Desenvolvedor), clique no botão "Macros" ou pressione "Alt + F8".
 2. Na janela "Macros", selecione a macro e clique em "Run" (Executar).
 3. Aguarde enquanto a macro realizar seus processos.
@@ -75,7 +76,9 @@ O código consiste em duas sub-rotinas, uma para converter todas as letras em ma
 3. Na mesma planilha, coloque os temas ou nomes dos grupos na coluna B, a partir da célula B1, assegurando que não haja células vazias entre eles.
 4. [Execute a Macro.](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/README.md#executar)
 
-🔹 [Arquivo](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/blob/main/Excel_SorteioGrupos.bas)
+🔹 [Arquivo](https://github.com/Assaoka/Kit-de-Ferramentas-VBA/edit/main/README.md#executar-macro)
+
+
 
 ##  Sobre o Autor:
 <img src="https://avatars.githubusercontent.com/u/130188340?s=200&u=83c9d36fc760730d693236248c76d9464e4b92fc&v=4" alt="Minha Foto" align="left" width="150em" height="150em" style="margin-right: 10px">
