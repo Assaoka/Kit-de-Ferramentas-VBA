@@ -80,6 +80,11 @@ O código consiste em duas sub-rotinas, uma para converter todas as letras em ma
 
 
 
+## Envio de E-mails:
+Em Breve...
+
+
+
 ##  Sobre o Autor:
 <img src="https://avatars.githubusercontent.com/u/130188340?s=200&u=83c9d36fc760730d693236248c76d9464e4b92fc&v=4" alt="Minha Foto" align="left" width="150em" height="150em" style="margin-right: 10px">
 
